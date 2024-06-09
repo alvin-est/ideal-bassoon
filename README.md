@@ -1,3 +1,15 @@
+# README 
+
+## Portfolio Work
+The code in this repository is part of the Week 02 assignment for my course.
+
+A screenshot is included (as required) below:
+![portfolio demo](./misc/screenshot.png)
+
+The live application can be found here: https://alvin-est007.github.io/ideal-bassoon/
+
+---
+
 # 02 Advanced CSS: Portfolio
 
 ## Your Task
