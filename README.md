@@ -8,6 +8,8 @@ A screenshot is included (as required) below:
 
 The live application can be found here: https://alvin-est007.github.io/ideal-bassoon/
 
+Also including the original README file for the assignment below.
+
 ---
 
 # 02 Advanced CSS: Portfolio
